@@ -12,7 +12,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: "gfx4",
-        author: "Gifted Tech",
+        author: "Tohid khan",
         description: "Send an image ",
         category: "ʟᴏɢᴏ",
         usage: "<prompt>",
