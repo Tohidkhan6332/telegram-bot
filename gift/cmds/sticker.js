@@ -15,7 +15,7 @@ const path = require('path');
 module.exports = {
     config: {
         name: "sticker",
-        author: "Gifted Tech",
+        author: "tohid khan",
         description: "create fake telegram message ",
         category: "ғᴜɴ",
         usage: "sticker [prompt]",
