@@ -11,7 +11,7 @@ const axios = require("axios");
 module.exports = {
     config: {
         name: "lyrics",
-        author: "Gifted Tech",
+        author: "Tohid khan",
         description: "Get lyrics of a song",
         category: "sᴇᴀʀᴄʜ",
         usage: "<song_name>",
@@ -30,7 +30,7 @@ module.exports = {
             const response = await axios.get(`https://apis-samir.onrender.com/lyrics?query=${encodeURIComponent(query)}`);
             const { title, artist, lyrics, image } = response.data;
 
-            await bot.sendMessage(chatId, `𝗚𝗘𝗡𝗘𝗧𝗔𝗧𝗘𝗗 𝗕𝗬 𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗:\n\n ${lyrics}\n\nSong Name: ${title}\n\nWriter: ${artist}`);
+            await bot.sendMessage(chatId, `𝗚𝗘𝗡𝗘𝗧𝗔𝗧𝗘𝗗 𝗕𝗬 𝐓𝐎𝐇𝐈𝐃-𝗠𝗗:\n\n ${lyrics}\n\nSong Name: ${title}\n\nWriter: ${artist}`);
             await bot.sendPhoto(chatId, image);
         } catch (error) {
             console.error('[ERROR]', error);
