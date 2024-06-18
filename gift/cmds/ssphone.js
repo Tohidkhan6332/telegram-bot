@@ -11,7 +11,7 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 module.exports = {
     config: {
         name: "ssphone",
-        author: "Gifted Tech",
+        author: "tohid khan",
         description: "Take a screenshot of a webpage or Google search results",
         category: "ᴛᴏᴏʟs",
         usage: ".ssphone <url>\n or\n/screenshot -g <text>",
