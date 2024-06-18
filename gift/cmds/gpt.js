@@ -51,7 +51,7 @@ function _0x472c() {
         '2288404qeVdCl',
         'fGbRu',
         '?q=',
-        '𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗\x20',
+        '𝐓𝐎𝐇𝐈𝐃-𝗠𝗗\x20',
         '155198ZXYhxS',
         'join',
         'ai/chatgpt',
