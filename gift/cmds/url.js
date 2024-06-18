@@ -12,7 +12,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: "url",
-        author: "Gifted Tech",
+        author: "tohid khan",
         description: "Send a link of the replied file",
         category: "ᴜᴛɪʟɪᴛʏ",
         usage: "sendfilelink",
