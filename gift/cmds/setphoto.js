@@ -9,7 +9,7 @@
 module.exports = {
   config: {
     name: "setgpp",
-    author: "Gifted Tech",
+    author: "tohid khan",
     description: "Set a custom photo for the group",
     category: "ɢʀᴏᴜᴘ",
     usage: ".setgpp [photo]",
