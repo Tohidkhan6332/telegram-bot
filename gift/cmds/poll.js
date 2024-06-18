@@ -12,7 +12,7 @@ const prefix = gifted.join(__dirname, './config.json');
 module.exports = {
     config: {
         name: "poll",
-        author: "Gifted Tech",
+        author: "tohid khan",
         description: "Create a poll with multiple options",
         category: "ᴜᴛɪʟɪᴛʏ",
         usage: "poll <question> | <option1> | <option2> | ...",
