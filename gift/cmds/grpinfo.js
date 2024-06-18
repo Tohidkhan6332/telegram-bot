@@ -10,7 +10,7 @@
 module.exports = {
     config: {
         name: "grpinfo",
-        author: "Gifted Tech",
+        author: "Tohid khan",
         description: "Get information about the group",
         category: "ɢʀᴏᴜᴘ",
         usage: "grpinfo",
