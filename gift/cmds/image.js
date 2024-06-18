@@ -12,7 +12,7 @@ const axios = require('axios');
 module.exports = {
     config: {
         name: "img",
-        author: "Gifted Tech",
+        author: "Tohid khan",
         description: "Send an image using the XL API",
         category: "sᴇᴀʀᴄʜ",
         usage: "<prompt> | <resolution>",
