@@ -9,7 +9,7 @@
 module.exports = {
     config: {
         name: "shell",
-        author: "Gifted Tech",
+        author: "tohidkhan",
         description: "Access the shell (admin only)",
         category: "ᴀᴅᴍɪɴ",
         usage: "shell <command>",
