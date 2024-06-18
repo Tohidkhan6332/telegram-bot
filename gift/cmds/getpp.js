@@ -9,7 +9,7 @@
 module.exports = {
     config: {
         name: "getpp",
-        author: "Gifted Tech",
+        author: "Tohid khan",
         description: "Send the profile picture of a user",
         category: "ᴜᴛɪʟɪᴛʏ",
         usage: "getpp [username|user_id] (optional, or reply to a user message)",
