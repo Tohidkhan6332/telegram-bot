@@ -11,7 +11,7 @@ let rules = [];
 module.exports = {
     config: {
         name: "rules",
-        author: "Gifted Tech",
+        author: "tohid Khan",
         description: "Manage group rules",
         category: "ɢʀᴏᴜᴘ",
         usage: "add <rule>, modify <index> | <new rule>, delete <index>",
