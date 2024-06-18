@@ -47,7 +47,7 @@ function _0x214a() {
         'ile\x20proces',
         'https://ap',
         'error',
-        '𝗚𝗜𝗙𝗧𝗘𝗗-𝗠𝗗\x20',
+        '𝐓𝐎𝐇𝐈𝐃-𝗠𝗗\x20',
         'join',
         '6912275cIMFwK',
         'sendMessag',
