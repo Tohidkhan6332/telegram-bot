@@ -11,7 +11,7 @@ const config = require('./config.json');
 module.exports = {
     config: {
         name: "prefix",
-        author: "Gifted Tech",
+        author: "tohid khan",
         description: "bot prefix",
         category: "ᴜᴛɪʟɪᴛʏ",
         usage: "prefix",
